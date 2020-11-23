@@ -15,7 +15,7 @@ yarn build
 cd public
 
 # 如果是发布到自定义域名
- echo 'blog.vueblog.tk' > CNAME
+ echo 'blog.hello12345.tk' > CNAME
 
 git init
 git add -A
