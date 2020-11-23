@@ -98,3 +98,12 @@ cd C:\Users\jaymie\AppData\Roaming\Typora\picgo\win64
 }
 ```
 
+
+
+
+
+![image-20201123150329940](https://gitee.com/daixiaomao/vueprees_pic/raw/master/img/image-20201123150329940.png)
+
+
+
+![image-20201123150209006](https://gitee.com/daixiaomao/vueprees_pic/raw/master/img/image-20201123150209006.png)
